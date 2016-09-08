@@ -23,3 +23,5 @@ relation["network" = "rwn"]["type" = "network"](area);
 >>;
 out;
 ```
+
+Het GeoJSON-bestand dat de laatste query genereerde op 8 september 2016 rond 12 uur 's middags staat [hier](https://gist.github.com/7f102a73c19106d9f89fe8acba26f07a).
